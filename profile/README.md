@@ -6,3 +6,4 @@ Welcome to the repository for CMPSC101 Data Structures, Fall 2025 at Allegheny C
 
 Since you are here, please view our departmental shared <a href="https://www.cis.allegheny.edu/teaching/policies/" target="_blank">values and policies</a> statement. :-)
 
+Website for the class: [https://cmpsc101fall2025datastructures.github.io/site/](https://cmpsc101fall2025datastructures.github.io/site/)
